@@ -41,4 +41,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulmalik%20Alquwayfili-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdulmalik-alquwayfili-0405792a0/)
 [![Email](https://img.shields.io/badge/Email-af.alquwayfili%40gmail.com-red?style=flat&logo=gmail)](mailto:af.alquwayfili@gmail.com)
 
-💡 *Always open to AI collaborations, research, and innovative projects. Let’s connect!* 🚀
+ *Always open to AI collaborations, research, and innovative projects. Let’s connect!* 
