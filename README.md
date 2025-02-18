@@ -24,9 +24,10 @@ Welcome to my GitHub! I’m passionate about **AI, Machine Learning, and Data Sc
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=flat&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=flat&logo=langchain&logoColor=white)
 
+
 ### 🏗️ LLM & NLP
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=python&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-32A852?style=flat&logo=python&logoColor=white)
 ![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=python&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFCC00?style=flat&logo=wandb&logoColor=black)
@@ -38,6 +39,7 @@ Welcome to my GitHub! I’m passionate about **AI, Machine Learning, and Data Sc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 📊 Data Science & Engineering
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
