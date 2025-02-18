@@ -3,9 +3,6 @@
 🚀 **AI Engineer | Researcher | LLM Enthusiast**  
 📍 Research Assistant at **IMISU University** | R&D at **WAE**  
 
-I specialize in **AI, Machine Learning, and Large Language Models (LLMs)**, focusing on **RAG, Prompt Engineering, and AI deployment**. Passionate about **pushing the boundaries of AI research** and building **scalable AI solutions**.
-
-
 ---
 
 ## 🛠 Tech Stack
