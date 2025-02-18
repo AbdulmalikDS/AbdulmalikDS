@@ -1,14 +1,11 @@
 # 👋 Hi, I'm Abdulmalik!
 
 
----
-
 ## 🔬 What I'm Working On
 
 - 📊 Research Assistant at IMISU University
 - 🎓 Doing R&D at WAE
 - 🤖 Exploring **Large Language Models (LLMs)**
-
 
 
 ## 🛠 Tech Stack
