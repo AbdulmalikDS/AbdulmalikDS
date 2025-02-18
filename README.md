@@ -31,27 +31,11 @@ Welcome to my GitHub! I’m passionate about **AI, Machine Learning, and Data Sc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Abdulmalik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📧 [Email](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulmalik-alquwayfili-0405792a0/)
+- 📧 [Email](mailto:af.alquwayfili@gmail.com)
 
----
-
-### ⚡ Fun Fact
-Did you know? I attended the **2024 Fintech Conference in Saudi Arabia** and actively contribute to **Vision Club’s event management** for AI and cybersecurity awareness!
-
----
 
 💡 *I'm always excited to collaborate on AI projects, research, and innovative tech. Feel free to reach out!* 🚀
