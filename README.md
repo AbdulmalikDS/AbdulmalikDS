@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulmalik!
 
-🚀 **AI Engineer | Researcher | LLM Enthusiast**  
+🚀 ** Senior Student | AI Engineer | Researcher | Data Scientist**  
 📍 Research Assistant at **IMISU University** | R&D at **WAE**  
 
 ---
