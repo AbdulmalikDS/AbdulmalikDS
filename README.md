@@ -19,8 +19,8 @@
 
 ### 🏗️ LLM & NLP
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat&logo=python&logoColor=white)
-![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1B1F23?style=flat&logo=python&logoColor=white)
+![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-013243?style=flat&logo=python&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFCC00?style=flat&logo=wandb&logoColor=black)
 
 ### 🖥️ Deployment & MLOps
