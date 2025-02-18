@@ -2,16 +2,15 @@
 
  AI/ML Engineer 
 
-Welcome to my GitHub! I’m passionate about **AI, Machine Learning, and Data Science**, with experience in building **ML models, AI solutions, and data-driven applications**. I enjoy solving complex problems, contributing to open-source projects, and continuously improving my skills.  
+Welcome to my GitHub! I'm Abdulmalik! i’m a senior student, I’m passionate about **AI, Machine Learning, and Data Science**, with experience in building **ML models, AI solutions, and data-driven applications**. I enjoy solving complex problems, contributing to open-source projects, and continuously improving my skills.  
 
 ---
 
 ## 🔬 What I'm Working On
 
-- 📊 Researching Assistant At IMISU University
-- 🏫 Senior Student
+- 📊 Researching Assistant at IMISU University
 - 🎓 Doing research and development at WAE
-- 🤖 Exploring ** Arabic Large Language Models (LLMs)**
+- 🤖 Exploring **Large Language Models (LLMs)**
 
 
 
