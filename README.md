@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulmalik!
 
-🚀 **Senior Student | AI Engineer | Researcher | Data Scientist**  
-📍 Research Assistant at **IMISU University** | R&D at **WAE**  
+🎓 **Senior Student | AI Engineer | Researcher | Data Scientist**  
+🔬 Research Assistant at **IMISU University** | R&D at **WAE**  
 
 ---
 
@@ -23,7 +23,7 @@
 ![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-FF6F00?style=flat&logo=python&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFCC00?style=flat&logo=wandb&logoColor=black)
 
-### 🌍 Deployment & MLOps
+### 🖥️ Deployment & MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
