@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulmalik Alquwayfili!
+# 👋 Hi, I'm Abdulmalik!
 
  AI/ML Engineer 
 
