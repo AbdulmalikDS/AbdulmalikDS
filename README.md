@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulmalik!
 
-🎓 **Senior Student | AI Engineer | Researcher | Data Scientist**  
+🎓 **Senior Student | AI Engineer | Data Scientist | Researcher**  
 🔬 Research Assistant at **IMISU University** | R&D at **WAE**  
 
 ---
