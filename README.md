@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Abdulmalik!
 
- AI/ML Engineer 
-
-Welcome to my GitHub! I'm Abdulmalik! a senior IS student, I’m passionate about **AI, Machine Learning, and Data Science**, with experience in building **ML models, AI solutions, and data-driven applications**. I enjoy solving complex problems, contributing to open-source projects, and continuously improving my skills.  
 
 ---
 
