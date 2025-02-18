@@ -2,6 +2,7 @@
 
 🎓 **Senior Student | AI Engineer | Data Scientist | Researcher**  
 🔬 Research Assistant at **IMISU University** | R&D at **WAE**  
+🏫 Studying Reinforcement Learning at **Stanford University**
 
 ---
 
