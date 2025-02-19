@@ -23,13 +23,13 @@
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-150458?style=flat&logo=robotframework&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1B1F23?style=flat&logo=python&logoColor=white)
 ![RAG (Retrieval-Augmented Generation)](https://img.shields.io/badge/RAG-013243?style=flat&logo=python&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFCC00?style=flat&logo=wandb&logoColor=black)
 
 ### 🖥️ Deployment & MLOps
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20&%20Biases-FFCC00?style=flat&logo=wandb&logoColor=black)
 ![Cursor](https://img.shields.io/badge/Cursor-1B1F23?style=flat&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
