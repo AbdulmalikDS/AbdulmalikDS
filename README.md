@@ -4,7 +4,6 @@
 🔬 Research Assistant at **IMISU University** | R&D at **WAE**  
 🏫 Studying Reinforcement Learning at **Stanford University**
 
----
 
 ## 🛠 Tech Stack
 
